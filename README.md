@@ -18,9 +18,9 @@ Sentinel AI is an autonomous fact-checking agent designed to combat misinformati
 
 ## 🧠 Example
 
-> **Claim:** “The Bandra-Worli Sea Link is closed due to an accident.”  
-> **Status:** ✅ VERIFIED FALSE  
-> **The Truth:** The Mumbai Traffic Police confirmed the Sea Link is open and traffic is normal. [View Source](#)
+Claim: "Mumbai's Bandra-Worli Sea Link has collapsed due to high winds!"
+
+Authorities have confirmed the Bandra-Worli Sea Link is structurally sound and has been temporarily closed to traffic as a precaution. Images circulating are from a different event years ago.
 
 ## 🏗️ Prototype Goals — MumbaiHacks 2025
 
